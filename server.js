@@ -16,10 +16,10 @@ app.use(express.json());
 
 // CORS setup
 const allowedOrigins = [
-    'https://nodejs-lesson-8-deploy-employee-app.onrender.com/',
-    'http://localhost:3000',
-    'http://localhost:5173',
-    'http://localhost:5174'
+    'https://nodejs-lesson-8-deploy-employee-app.onrender.com'
+    // , 'http://localhost:3000'
+    // , 'http://localhost:5173'
+    // , 'http://localhost:5174'
     
 ];
 
